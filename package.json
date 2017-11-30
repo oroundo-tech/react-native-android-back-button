@@ -17,6 +17,7 @@
     "react-side-effect"
   ],
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react-side-effect": "^1.0.2"
   },
   "devDependencies": {

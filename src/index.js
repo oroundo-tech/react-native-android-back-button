@@ -1,6 +1,7 @@
-import React, { Component, PropTypes } from "react"
+import React, { Component } from "react"
 import { BackHandler, Platform } from "react-native"
 import withSideEffect from "react-side-effect"
+import PropTypes from 'prop-types'
 
 let listener = null
 let backButtonPressFunction = () => false
